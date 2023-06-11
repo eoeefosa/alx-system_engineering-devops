@@ -1,0 +1,18 @@
+total 64
+drwxr-xr-x 2 root root   334 Jun 11 14:05 .
+drwxr-xr-x 6 root root   121 Jun  9 13:57 ..
+-rwxr--r-- 1 root root    32 Jun  9 14:11 0-hello_world
+-rw------- 1 root root 12288 Jun  9 14:10 .0-hello_world.swp
+-rwxr--r-- 1 root root    28 Jun  9 14:26 1-confused_smiley
+-rwxr--r-- 1 root root    28 Jun 10 22:25 2-hellofile
+-rwxr--r-- 1 root root    39 Jun 10 22:26 3-twofiles
+-rwxr--r-- 1 root root    35 Jun 10 22:33 4-lastlines
+-rwxr--r-- 1 root root    35 Jun 10 22:36 5-firstlines
+-rwxr--r-- 1 root root    40 Jun 10 22:55 6-third_line
+-rwxr--r-- 1 root root    99 Jun 10 23:35 7-file
+-rwxr--r-- 1 root root    36 Jun 11 14:05 8-cwd_state
+-rw-r--r-- 1 root root    12 Jun 10 23:31 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   801 Jun 10 22:50 iacta
+-rw-r--r-- 1 root root     0 Jun 11 14:05 ls_cwd_content
+-rw-r--r-- 1 root root    42 Jun  9 14:03 README.md
+-rw-r--r-- 1 root root    62 Jun  9 14:36 user_space_report.txt
